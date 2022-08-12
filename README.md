@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # min-height-bst
 
+Difficulty: medium
 
   Write a function that takes in a non-empty sorted array of distinct integers,
   constructs a BST from the integers, and returns the root of the BST.
